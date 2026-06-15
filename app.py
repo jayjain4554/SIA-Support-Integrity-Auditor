@@ -4,7 +4,7 @@ Support Integrity Auditor — Priority Mismatch Dashboard
 
 Run: streamlit run app.py
 """
-
+import setup_models  # auto-trains if models missing
 import os, json, re, time, warnings
 import streamlit as st
 import pandas as pd

@@ -5,11 +5,11 @@ __pycache__/
 *.pyc
 
 # Large data file (too big for GitHub)
-data/enhanced_customer_support_data.csv
-data/processed_tickets.csv
+#data/enhanced_customer_support_data.csv
+#data/processed_tickets.csv
 
 # Model files (large binaries)
-models/
+#models/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
