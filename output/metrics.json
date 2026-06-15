@@ -1,0 +1,17 @@
+{
+  "best_threshold": 0.25,
+  "accuracy": 0.8482,
+  "macro_f1": 0.8444,
+  "recall_consistent": 0.8308,
+  "recall_mismatch": 0.8751,
+  "mismatch_rate": 0.3942,
+  "passes_verification": true,
+  "ablation": {
+    "sig1_category_mismatch_rate": 0.6188,
+    "sig2_urgency_time_mismatch_rate": 0.6419,
+    "sig3_satisfaction_mismatch_rate": 0.6419,
+    "sig1_vs_sig2_agreement": 0.5534,
+    "sig1_vs_sig3_agreement": 0.565,
+    "sig2_vs_sig3_agreement": 0.5255
+  }
+}

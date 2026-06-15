@@ -1,0 +1,19 @@
+# Virtual environment
+sia_env/
+venv/
+__pycache__/
+*.pyc
+
+# Large data file (too big for GitHub)
+data/enhanced_customer_support_data.csv
+data/processed_tickets.csv
+
+# Model files (large binaries)
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
