@@ -2,7 +2,7 @@
 
 > AI-powered, semantics-driven auditor that detects **Priority Mismatch** in CRM support tickets — where the human-assigned priority conflicts with objective ticket signals.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jayjain4554-sia-support-integrity-auditor-app-XXXXX.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jayjain4554-sia-support-integrity-auditor-app-5luzfv.streamlit.app/)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
